@@ -1,0 +1,8 @@
+pandas
+pydantic
+firecrawl-py
+selenium
+webdriver-manager
+
+
+prefect

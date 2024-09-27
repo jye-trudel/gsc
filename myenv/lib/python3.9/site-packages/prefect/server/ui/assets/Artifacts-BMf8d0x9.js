@@ -1,0 +1,2 @@
+import{d as s,c as r,j as a,k as c,o as n,l as e,m as t,aT as _,aU as f}from"./index-CfSL_DzU.js";import{u as l}from"./usePageTitle-TG-RZAHq.js";const h=s({__name:"Artifacts",setup(p){return l("Artifacts"),(u,m)=>{const o=c("p-layout-default");return n(),r(o,{class:"artifacts"},{header:a(()=>[e(t(_))]),default:a(()=>[e(t(f))]),_:1})}}});export{h as default};
+//# sourceMappingURL=Artifacts-BMf8d0x9.js.map
